@@ -1,0 +1,119 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: CocoBasic - Pekko WP\n"
+"POT-Creation-Date: 2019-11-07 11:44+0100\n"
+"PO-Revision-Date: 2019-11-07 11:44+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: cocobasic-shortcode.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: cocobasic-shortcode.php:132 cocobasic-shortcode.php:133
+msgid "Portfolio"
+msgstr ""
+
+#: cocobasic-shortcode.php:152
+msgid "Page Preference"
+msgstr ""
+
+#: cocobasic-shortcode.php:163
+msgid "Show Page Title"
+msgstr ""
+
+#: cocobasic-shortcode.php:169
+msgid "Yes"
+msgstr ""
+
+#: cocobasic-shortcode.php:173
+msgid "No"
+msgstr ""
+
+#: cocobasic-shortcode.php:256
+msgid "Portfolio Preference"
+msgstr ""
+
+#: cocobasic-shortcode.php:267
+msgid "Custom thumb title on mouse over"
+msgstr ""
+
+#: cocobasic-shortcode.php:268
+msgid "by default is used item title"
+msgstr ""
+
+#: cocobasic-shortcode.php:273
+msgid "Thumb image size"
+msgstr ""
+
+#: cocobasic-shortcode.php:289
+msgid "Link thumb to"
+msgstr ""
+
+#: cocobasic-shortcode.php:295
+msgid "This post"
+msgstr ""
+
+#: cocobasic-shortcode.php:299
+msgid "Image"
+msgstr ""
+
+#: cocobasic-shortcode.php:303
+msgid "Video"
+msgstr ""
+
+#: cocobasic-shortcode.php:307
+msgid "External URL"
+msgstr ""
+
+#: cocobasic-shortcode.php:313
+msgid "Link thumb to Image:"
+msgstr ""
+
+#: cocobasic-shortcode.php:319
+msgid "Link thumb to Video"
+msgstr ""
+
+#: cocobasic-shortcode.php:320
+msgid ""
+"For example: http://vimeo.com/XXXXXX or http://www.youtube.com/watch?v=XXXXXX"
+msgstr ""
+
+#: cocobasic-shortcode.php:325
+msgid "Link thumb to External URL:"
+msgstr ""
+
+#: cocobasic-shortcode.php:326
+msgid "Set URL to external site"
+msgstr ""
+
+#: cocobasic-shortcode.php:355
+msgid "Upload Image"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "CocoBasic - Pekko WP"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "User interface used in Pekko WP theme."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "CocoBasic"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://www.cocobasic.com"
+msgstr ""
